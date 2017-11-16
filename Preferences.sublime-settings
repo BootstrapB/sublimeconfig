@@ -2,8 +2,7 @@
 	"auto_complete_cycle": true,
 	"auto_complete_selector": true,
 	"caret_style": "solid",
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
-    "auto_match_enabled": false,
+    	"auto_match_enabled": false,
 
 	"font_size": 11,
 	"ignored_packages": [],
