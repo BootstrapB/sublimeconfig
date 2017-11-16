@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"http_proxy": "http://proxy-west.aero.org:8080",
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Block Cursor Everywhere",
+		"BracketHighlighter",
+		"Colorsublime",
+		"JavaScript & NodeJS Snippets",
+		"JavaScript Completions",
+		"Nodejs",
+		"Package Control",
+		"Package Syncing",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-clang",
+		"SublimeLinter-flake8",
+		"SublimeLinter-jshint",
+		"SublimeREPL",
+		"TerminalView"
+	],
+	"proxy_password": "Tue",
+	"proxy_username": "30370"
+}
