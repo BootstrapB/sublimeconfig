@@ -21,8 +21,9 @@
 		"SublimeLinter-flake8",
 		"SublimeLinter-jshint",
 		"SublimeREPL",
-		"TerminalView"
+		"TerminalView",
+		"Vintage Escape"
 	],
-	"proxy_password": "Tue",
+	"proxy_password": "Thu",
 	"proxy_username": "30370"
 }

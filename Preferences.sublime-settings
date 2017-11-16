@@ -1,11 +1,12 @@
 {
 	"auto_complete_cycle": true,
 	"auto_complete_selector": true,
+	"auto_match_enabled": false,
 	"caret_style": "solid",
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
-    "auto_match_enabled": false,
-
 	"font_size": 11,
-	"ignored_packages": [],
+	"ignored_packages":
+	[
+	],
 	"theme": "Default.sublime-theme"
 }
