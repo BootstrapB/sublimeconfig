@@ -5,6 +5,7 @@
 	"caret_style": "solid",
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"font_size": 11,
+    "translate_tabs_to_spaces": true,
 	"ignored_packages":
 	[
 	],
