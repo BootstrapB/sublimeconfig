@@ -1,0 +1,33 @@
+[
+{
+    "keys": ["j", "k"],
+    "command": "exit_insert_mode",
+    "context":
+    [
+        { "key": "setting.command_mode", "operand": false },
+        { "key": "setting.is_widget", "operand": false }
+    ]
+},
+
+{
+    "keys": ["tab"],
+    "command": "move",
+    "args": {"by": "lines", "forward": true},
+    "context":
+        [
+            { "key": "auto_complete_visible", "operator": "equal", "operand": true }
+        ]
+},
+
+{ "keys": ["ctrl+shift+t"], "command": "terminal_view_open" },
+{
+    "keys": ["J", "K"],
+    "command": "exit_insert_mode",
+    "context":
+    [
+        { "key": "setting.command_mode", "operand": false },
+        { "key": "setting.is_widget", "operand": false }
+    ]
+}
+	
+]
